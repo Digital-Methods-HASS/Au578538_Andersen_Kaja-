@@ -1,4 +1,4 @@
-#Upload dataset in folder "compleated-dataset-South-German-settlers-on-the-moors-of-Jutland" - semicolon separator
+#Upload dataset in folder "compleated_dataset_South_German_settlers_on_the_moors_of_Jutland" - semicolon separator
 library(tidyverse)
 
 #going to use a table function
