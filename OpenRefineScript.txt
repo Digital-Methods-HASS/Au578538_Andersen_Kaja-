@@ -1,0 +1,239 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Native_soil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schwaben",
+          "Schwaben "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schwaben"
+      },
+      {
+        "from": [
+          "Württemberg",
+          "Württemberg "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Württemberg"
+      },
+      {
+        "from": [
+          "Odenwald ",
+          "Odenwald  "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Odenwald "
+      },
+      {
+        "from": [
+          "Erbach Hessen",
+          "Erbach Hessen "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Erbach Hessen"
+      },
+      {
+        "from": [
+          "Wembach Hessen-Darmstadt",
+          "Wembach Hessen-Darmstadt "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wembach Hessen-Darmstadt"
+      },
+      {
+        "from": [
+          "Kurpfalz",
+          "Kurpfalz "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kurpfalz"
+      },
+      {
+        "from": [
+          "Reichenbach Hessen",
+          "Reichenbach Hessen "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reichenbach Hessen"
+      }
+    ],
+    "description": "Mass edit cells in column Native_soil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Native_soil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Erbach Hessen",
+          "Erbach-Hessen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Erbach Hessen"
+      }
+    ],
+    "description": "Mass edit cells in column Native_soil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Native_soil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wembach Hessen-Darmstadt",
+          "Wenbach Hessen-Darmstadt "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wembach Hessen-Darmstadt"
+      },
+      {
+        "from": [
+          "Heilichkreuzsteinach Kurpfalz",
+          "Heiligkreuzsteinach Kurpfalz "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heilichkreuzsteinach Kurpfalz"
+      },
+      {
+        "from": [
+          "Schriesheim Kurpfalz",
+          "Schhriesheim Kurpfalz "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schriesheim Kurpfalz"
+      }
+    ],
+    "description": "Mass edit cells in column Native_soil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Native_soil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Degenfeld county Kurpfalz",
+          "Degenfeld county "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Degenfeld county Kurpfalz"
+      },
+      {
+        "from": [
+          "Hohen-Sachsen Kurpfals ",
+          "Hohensachsen Kurpfalz "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hohen-Sachsen Kurpfals "
+      },
+      {
+        "from": [
+          "Lichtenberg Hessen",
+          "Lichtenberg Hessen-Darmstadt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lichtenberg Hessen"
+      }
+    ],
+    "description": "Mass edit cells in column Native_soil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Native_soil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wembach Hessen-Darmstadt",
+          "Wembach Hessen "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wembach Hessen-Darmstadt"
+      }
+    ],
+    "description": "Mass edit cells in column Native_soil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "After_settling_in_ Denmark",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Departed from the country ",
+          "Departed from the country"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Departed from the country "
+      }
+    ],
+    "description": "Mass edit cells in column After_settling_in_ Denmark"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "After_settling_in_ Denmark",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Depated from the country",
+          "Departed from the country "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Depated from the country"
+      }
+    ],
+    "description": "Mass edit cells in column After_settling_in_ Denmark"
+  }
+]
